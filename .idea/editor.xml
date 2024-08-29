@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BackendCodeEditorSettings">
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=6D713C6F67E95A418A670BAE9FC5A381/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=6D713C6F67E95A418A670BAE9FC5A381/Reformat/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=6D713C6F67E95A418A670BAE9FC5A381/ShortenQualifiedReferences/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=6D713C6F67E95A418A670BAE9FC5A381/Applicability/=Live/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=6D713C6F67E95A418A670BAE9FC5A381/Scope/=F6696F8185506F41B9C4252540BE9C18/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=6D713C6F67E95A418A670BAE9FC5A381/Scope/=F6696F8185506F41B9C4252540BE9C18/Type/@EntryValue" value="InCppFile" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=6D713C6F67E95A418A670BAE9FC5A381/Shortcut/@EntryValue" value="c" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=6D713C6F67E95A418A670BAE9FC5A381/Text/@EntryValue" value="#include &lt;stdc++.h&gt;" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/Reformat/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/ShortenQualifiedReferences/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/Applicability/=Live/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/Scope/=F6696F8185506F41B9C4252540BE9C18/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/Scope/=F6696F8185506F41B9C4252540BE9C18/Type/@EntryValue" value="InCppFile" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/Shortcut/@EntryValue" value="stdc" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/Description/@EntryValue" value="header for compet" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/Text/@EntryValue" value="#include &lt;stdc++.h&gt;" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/Scope/=CF7C2F2066E462418ABD91975B64021C/@KeyIndexDefined" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/Scope/=CF7C2F2066E462418ABD91975B64021C/Type/@EntryValue" value="InFileWithMask" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/Scope/=CF7C2F2066E462418ABD91975B64021C/CustomProperties/=mask/@EntryIndexedValue" value="*.cc" type="string" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/IsBlessed/@EntryValue" value="true" type="bool" />
+    <option name="/Default/PatternsAndTemplates/LiveTemplates/Template/=964DE10AF4A9114DAB2EF31A532CB9D6/Applicability/=Surround/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Environment/UserInterface/HierarchyView/ViewStyle/@EntryValue" value="SuperTypes" type="string" />
+  </component>
+</project>

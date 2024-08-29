@@ -1,0 +1,5 @@
+add_executable(00-05-01c sol.c)
+add_executable(00-05-01-brutecc sol_brute.cc)
+add_executable(00-05-01-dynamiccc sol_dynamic.cc)
+add_executable(00-05-01-expcc sol_exp.cc)
+add_executable(00-05-01-manachercc sol_manacher.cc)

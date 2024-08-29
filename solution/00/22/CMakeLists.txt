@@ -1,0 +1,1 @@
+add_executable(00-22-01cc sol.cc)

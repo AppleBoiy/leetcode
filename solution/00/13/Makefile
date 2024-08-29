@@ -1,0 +1,2 @@
+rb:
+	ruby sol.rb

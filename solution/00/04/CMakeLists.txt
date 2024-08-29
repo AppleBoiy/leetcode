@@ -1,0 +1,1 @@
+add_executable(00-04-01c sol.c)

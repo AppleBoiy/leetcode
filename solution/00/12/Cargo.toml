@@ -1,0 +1,6 @@
+[package]
+name = "solution-0012"
+
+[[bin]]
+name = "0012"
+path = "sol.rs"

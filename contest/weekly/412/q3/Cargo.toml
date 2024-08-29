@@ -1,0 +1,6 @@
+[package]
+name = "contest-weekly-412-q3"
+
+[[bin]]
+name = "q3"
+path = "sol.rs"
